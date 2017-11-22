@@ -1,5 +1,6 @@
-as yet unclassified
-anagramString ^'A
+huge data
+anagramString
+	^ 'A
 A''asia
 A''s
 AA
