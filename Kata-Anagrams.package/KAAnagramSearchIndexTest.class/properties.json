@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "TestCase",
+	"category" : "Kata-Anagrams-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"anIndex"
+	],
+	"name" : "KAAnagramSearchIndexTest",
+	"type" : "normal"
+}

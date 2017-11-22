@@ -4,10 +4,11 @@
 	"category" : "Kata-Anagrams",
 	"classinstvars" : [ ],
 	"pools" : [ ],
-	"classvars" : [
-		"AnagramSearchIndex"
+	"classvars" : [ ],
+	"instvars" : [
+		"dictionary",
+		"words"
 	],
-	"instvars" : [ ],
-	"name" : "Anagrams",
+	"name" : "KAAnagramSearchIndex",
 	"type" : "normal"
 }
