@@ -1,3 +1,3 @@
 process
-anagramsFor: aString 
-	^ (self basicAnagramsFor: aString asLowercase) asSortedCollection  
+anagramsFor: aString
+	^ (self basicAnagramsFor: aString asLowercase asSortedCollection) asSortedCollection
