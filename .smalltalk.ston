@@ -1,7 +1,7 @@
 SmalltalkCISpec {
   #loading : [
     SCIMetacelloLoadSpec {
-      #baseline : 'Phlog',
+      #baseline : 'KataAnagrams',
       #directory : '.', 
       #platforms : [ #pharo ]
     }
