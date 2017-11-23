@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "KataAnagrams",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"dictionary",
+		"words"
+	],
+	"name" : "KAAnagramSearchIndex",
+	"type" : "normal"
+}

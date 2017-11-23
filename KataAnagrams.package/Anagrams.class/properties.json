@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "KataAnagrams",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"AnagramSearchIndex"
+	],
+	"instvars" : [ ],
+	"name" : "Anagrams",
+	"type" : "normal"
+}
