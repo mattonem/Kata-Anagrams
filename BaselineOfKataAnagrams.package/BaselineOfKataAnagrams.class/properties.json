@@ -1,11 +1,11 @@
 {
 	"commentStamp" : "",
 	"super" : "BaselineOf",
-	"category" : "BaselineKataAnagrams",
+	"category" : "BaselineOfKataAnagrams",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [ ],
-	"name" : "BaselineKataAnagrams",
+	"name" : "BaselineOfKataAnagrams",
 	"type" : "normal"
 }
