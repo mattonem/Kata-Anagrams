@@ -1,0 +1,14 @@
+SmalltalkCISpec {
+  #loading : [
+    SCIMetacelloLoadSpec {
+      #baseline : 'KataAnagrams',
+      #directory : '.', 
+      #platforms : [ #pharo ]
+    }
+  ],
+  #testing : {
+    #coverage : {
+      #categories : [ 'KataAnagrams-*', 'KataAnagrams' ]
+    }
+  }
+}
