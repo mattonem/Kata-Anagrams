@@ -4,5 +4,5 @@ baseline: spec
 	spec
 		for: #common
 		do: [ spec
-				package: 'Kata-Anagrams';
+				package: 'KataAnagrams';
 				yourself ]
